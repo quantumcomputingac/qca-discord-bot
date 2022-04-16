@@ -16,13 +16,14 @@
 
 ## The problem
 
-The KCD Community on discord needs a bot to automate onboarding and other
+The QCA Community on discord needs a bot to automate onboarding and other
 things.
 
 ## This solution
 
-I built this bot specific to my use cases. Feel free to fork if you want to
-maintain your own similar bot.
+I forked this bot from KCD Discord bot specific to my use cases. Feel free to
+fork this or the original KCD Discord bot if you want to maintain your own
+similar bot.
 
 To get a list of commands, run: `?help` in
 [`#🤖-talk-to-bots`](https://discord.com/channels/715220730605731931/721074443694374943)
@@ -93,7 +94,6 @@ Thanks goes to these people ([emoji key][emojis]):
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
