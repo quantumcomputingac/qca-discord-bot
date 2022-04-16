@@ -1,7 +1,7 @@
 <div align="center">
-<h1>kcd-discord-bot</h1>
+<h1>qca-discord-bot</h1>
 
-<p>The bot for the KCD discord community (https://kcd.im/discord)</p>
+<p>The bot for the Quantum Computing Academy (QCA) discord community (https://discord.gg/XG9Tj8es)</p>
 </div>
 
 ---
